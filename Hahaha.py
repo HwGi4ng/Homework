@@ -1,2 +1,2 @@
-x = input ("Tên")
-print ("Xin chào " + x)
+x = input ("Name")
+print ("Hi " + x)
